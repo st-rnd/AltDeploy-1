@@ -1,2 +1,2 @@
 # AltDeploy
-all credits to GeoSnow for releasing this, THIS IS FOR MacOS ONLY!
+all credits to GeoSnow, and pixelomer for releasing this, THIS IS FOR MacOS ONLY!
